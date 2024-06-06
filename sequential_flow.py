@@ -26,13 +26,6 @@
 #else:
     #print("The weatther is mild")
 
-age = 20
-has_permission = False
+#message = "It's hot outside" 
 
-if age >=18:
-    if has_permission:
-        print("Access granted.")
-    else:
-        print("Access denied.")   
-else:
-        print("Access denied.")   
+d
